@@ -75,6 +75,7 @@ html {
     font-size: 1.1rem;
     letter-spacing: 0.2px;
 }
+
 .mid .hero a {
     background: #00bf85;
     font-weight: 600px;
@@ -207,7 +208,12 @@ html {
 }
 
 footer {
-    background: #111;
+    background: #00bf85;
+    padding-top:3rem;
+}
+
+.copyright{
+    background-color:#068f63
 }
 
 @media screen and (max-width: 988px) {
